@@ -1,5 +1,5 @@
 {
 	"header": "Users",
 	"text": "Now, we'll create a user.",
-	"elements": ["[\"Username\", \"set.username.tmp\", \"text\"]", "[\"Next\", \"next.button\", \"button\"]", "[\"Back\", \"back.button\", \"button\"]"]
+	"elements": ["[\"Username\", \"set.username.tmp\", \"text\"]", "[\"Back\", \"back.button\", \"button\"]", "[\"Next\", \"next.button\", \"button\"]"]
 }
