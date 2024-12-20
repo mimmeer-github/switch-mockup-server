@@ -1,5 +1,5 @@
 {
 	"header": "Hello! 👋🏼",
 	"text": "Welcome to Nintendo Switch!\nPress Next to get started!",
-	"elements": ["[\"Next\", \"next.button\", \"button\"]"]
+	"elements": ["[\"Next\", \"next.button\", \"button\", \"160\", \"-140\"]"]
 }
