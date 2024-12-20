@@ -1,5 +1,5 @@
 {
-	"header": "Language"
-	"text": "Select a language"
+	"header": "Language",
+	"text": "Select a language",
 	"elements": ["[\"\", \"store.language\", \"language-list\"]", "[\"Next\", \"next.button\", \"button\"]", "[\"Back\", \"back.button\", \"button\"]"]
 }
