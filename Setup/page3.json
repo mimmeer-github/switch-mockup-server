@@ -1,5 +1,5 @@
 {
 	"header": "Users",
 	"text": "Now, we'll create a user.",
-	"elements": ["[\"Username\", \"set.username.tmp\", \"text\", \"0\", \"0\"]", "[\"Back\", \"back.button\", \"button\", \"90\", \"-140\"]", "[\"Next\", \"next.button\", \"button\", \"160\", \"-140\"]"]
+	"elements": ["[\"Username\", \"set.username.tmp\", \"text\", \"0\", \"0\", \"username\"]", "[\"Back\", \"back.button\", \"button\", \"90\", \"-140\"]", "[\"Next\", \"next.button\", \"button\", \"160\", \"-140\"]"]
 }
