@@ -1,5 +1,5 @@
 {
 	"header": "Language",
 	"text": "Select a language",
-	"elements": ["[\"\", \"store.language\", \"language-list\"]", "[\"Back\", \"back.button\", \"button\"]", "[\"Next\", \"next.button\", \"button\"]"]
+	"elements": ["[\"\", \"store.language\", \"language-list\", \"0\", \"0\"]]", "[\"Back\", \"back.button\", \"button\", \"90\", \"-140\"]]", "[\"Next\", \"next.button\", \"button\", \"160\", \"-140\"]]"]
 }
